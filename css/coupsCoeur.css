@@ -1,0 +1,30 @@
+.main-links{
+    text-align: center;
+}
+.block-livres{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    display: flex;
+    margin-bottom: 40px;
+}
+.block-livre{
+    border: 2px solid rgb(170,51,34);
+    border-radius: 10px;
+    display: inline-block;
+    background-color: rgb(237,237,237);
+    font-size: 16px;
+    padding: 15px;
+    margin-right: 4px;
+    width: 33%;
+}
+.titre-livre{
+    color:rgb(170,51,34);
+    font-weight: bold;
+}
+.genre-livre{
+    color: black;
+    font-weight: bold;
+}
+

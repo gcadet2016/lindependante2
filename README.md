@@ -1,2 +1,2 @@
-# lindependante2
-Atelier ESECAD
+# l'independante2
+Second atelier ESECAD sur la thématique librairie l'indépendante
