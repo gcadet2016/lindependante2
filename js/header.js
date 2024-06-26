@@ -17,16 +17,16 @@ headerTemplate.innerHTML = `
     text-align: center;
 }
 .menu-col{
-    color:rgb(204,204,204);
+    color: rgb(204,204,204);
     font-weight: bold;
-    font-size:12px;
+    font-size: 12px;
     display: inline-block;
     border-right: 1px dashed rgb(204,204,204);
-    padding: 10px 20px 10px 20px;
+    padding: 10px 10px 10px 10px;
     text-decoration: none;
 }
 .menu-col a{
-    color:rgb(204,204,204);
+    color:inherit;
     text-decoration: none;
 }
 .menu-col:hover, a:hover, a:visited:hover{
@@ -43,7 +43,6 @@ headerTemplate.innerHTML = `
             <div class="menu-col"><a href="presentation.html">Présentation</a></div>
             <div class="menu-col"><a href="coupsCoeur.html">Nos coups de coeur</a></div>
             <div class="menu-col"><a href="extraits.html">Extraits choisis</a></div>
-            <div class="menu-col"><a href="template.html">Template</a></div>
     </div>
     <img src="../img/bandeau.jpg" width="100%" style="margin-bottom: 30px;">
 </head>

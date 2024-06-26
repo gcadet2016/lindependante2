@@ -43,13 +43,13 @@ div {
 a:link {
     color: (internal value);
     text-decoration: underline;
-    cursor: auto;
+    cursor: pointer;
 }
 
 a:visited {
     color: (internal value);
     text-decoration: underline;
-    cursor: auto;
+    cursor: pointer;
 }
 
 a:link:active {

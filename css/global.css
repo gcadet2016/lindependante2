@@ -3,6 +3,7 @@ body{
     width: 960px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 40px;
 }
 .sous-titre {
     text-align: center;
@@ -14,13 +15,18 @@ body{
 .sous-sous-titre {
     font-size: 20px;
     font-weight: bold;
+    padding-top: 20px;
     margin-bottom: 10px;
 }
 .main-container{
     margin-left: 50px;
 }
-.block-text{
+.block-text-mb{
     margin-bottom: 20px;
+    font-size: 14px;
+}
+.block-text{
+    font-size: 14px;
 }
 .site-link{
     color: rgb(170, 51, 34);
@@ -34,6 +40,6 @@ body{
 }
 .site-link a:hover{
     color: rgb(170, 170, 170);
-    background-color: inherited;
+    background-color: inherit;
     text-decoration-line: none;
 }

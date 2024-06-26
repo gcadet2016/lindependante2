@@ -27,4 +27,8 @@
     color: black;
     font-weight: bold;
 }
-
+.cc-site-link{
+    color: rgb(170, 51, 34);
+    font-size: 16px;
+    text-decoration: none;
+}

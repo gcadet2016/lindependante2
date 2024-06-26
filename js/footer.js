@@ -14,6 +14,7 @@ footerTemplate.innerHTML = `
         float:right;
         text-align: right;
         font-weight: bold;
+        font-style: italic;
     }
 </style>
 <footer class="main-footer">
